@@ -1,4 +1,5 @@
 SQL Injection Attacks: Methods, Impact, and Prevention
+
 Introduction
 
 In today’s digital world, web applications store and manage sensitive information such as user credentials, banking details, and personal records. However, if these applications are not properly secured, attackers can exploit vulnerabilities to gain unauthorized access. One of the most dangerous and common web application attacks is SQL Injection (SQLi).
